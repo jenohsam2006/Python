@@ -1,6 +1,6 @@
 #Jenoh Sam J B
 #URK24CS1154
-#Second smallest and Second largest number in a list
+#Second smallest and Second largest number in a list.
 print("URK24CS1154")
 l = [12, 45, 2, 9, 3,5,45]
 n=set(l)
@@ -11,7 +11,7 @@ print("Second largest:", l[-2])
 
 #Jenoh Sam J B
 #URK24CS1154
-#Frequency of the elements in a list
+#Frequency of the elements in a list.
 print("URK24CS1154")
 e = ['apple', 'banana', 'apple', 'orange','banana','apple']
 for i in set(e):
@@ -38,7 +38,7 @@ else:
 
 #Jenoh Sam J B
 #URK24CS1154
-#Demonstrate all the methods in set
+#Demonstrate all the methods in set.
 print("URK24CS1154")
 a = {1, 2, 3, 4, 5}
 b = {4, 5, 6, 7, 8}
