@@ -1,3 +1,6 @@
+#Jenoh Sam J B
+#URK24CS1154
+print("URK24CS1154")
 def perfect (n):
     s = 0
     for i in range(1, n):
@@ -14,7 +17,9 @@ else:
     print(nu,"is not a perfect number.")
 
 
-
+#Jenoh Sam J B
+#URK24CS1154
+print("URK24CS1154")
 def happy (n):
     s = set()
     while n != 1 and n not in s:
@@ -27,7 +32,9 @@ if happy(n):
 else:
     (n," is not a Happy Number.")
 
-
+#Jenoh Sam J B
+#URK24CS1154
+print("URK24CS1154")
 def fun1(*args):
     l = args[-1]
     d = []
