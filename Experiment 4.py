@@ -1,5 +1,6 @@
 #Jenoh Sam J B
 #URK24CS1154
+#A number is perfect Number or not using a function.
 print("URK24CS1154")
 def perfect (n):
     s = 0
@@ -19,6 +20,7 @@ else:
 
 #Jenoh Sam J B
 #URK24CS1154
+#A number is a Happy Number or not using a function.
 print("URK24CS1154")
 def happy (n):
     s = set()
@@ -34,6 +36,7 @@ else:
 
 #Jenoh Sam J B
 #URK24CS1154
+#Print the divisors of the last input from the passing numbers.
 print("URK24CS1154")
 def fun1(*args):
     l = args[-1]
