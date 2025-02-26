@@ -1,6 +1,5 @@
 #Jenoh Sam J B
 #URK24CS1154
-#A number is perfect Number or not using a function.
 print("URK24CS1154")
 inventory = { 
     'gold': 500,
@@ -16,7 +15,6 @@ print(inventory)
 
 #Jenoh Sam J B
 #URK24CS1154
-#A number is perfect Number or not using a function.
 print("URK24CS1154")
 prices = {
     "banana": 4,
@@ -44,7 +42,6 @@ print("\nTotal:",total)
 
 #Jenoh Sam J B
 #URK24CS1154
-#A number is perfect Number or not using a function.
 print("URK24CS1154")
 groceries = ["banana", "orange", "apple"]
 stock = {
@@ -72,7 +69,6 @@ print(bill(groceries))
 
 #Jenoh Sam J B
 #URK24CS1154
-#A number is perfect Number or not using a function.
 lloyd = {
     "name": "Lloyd",
     "homework": [90.0, 97.0, 75.0, 92.0],
