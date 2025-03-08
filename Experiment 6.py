@@ -1,5 +1,6 @@
 #Jenoh Sam J B
 #URK24CS1154
+#create a file where all letters of the English alphabet are listed
 print("URK24CS1154")
 import string
 def alphabet_file(fn, n):
@@ -15,6 +16,7 @@ print(f"File '{fn}' has been created with {n} letters per line.")
 
 #Jenoh Sam J B
 #URK24CS1154
+#read the first n lines of a file
 print("URK24CS1154")
 def read_line(fn, n):
     with open(fn) as f:
@@ -26,6 +28,7 @@ read_line(fn, n)
 
 #Jenoh Sam J B
 #URK24CS1154
+#count the frequency of words in a file
 print("URK24CS1154")
 from collections import Counter
 with open("alphabet.txt") as f:
