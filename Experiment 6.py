@@ -1,3 +1,6 @@
+#Jenoh Sam J B
+#URK24CS1154
+print("URK24CS1154")
 import string
 def alphabet_file(fn, n):
     al = string.ascii_uppercase
@@ -10,8 +13,9 @@ alphabet_file(fn, n)
 print(f"File '{fn}' has been created with {n} letters per line.")
 
 
-
-
+#Jenoh Sam J B
+#URK24CS1154
+print("URK24CS1154")
 def read_line(fn, n):
     with open(fn) as f:
         print("".join(f.readlines()[:n]))
@@ -20,7 +24,9 @@ n = int(input("Enter number of lines to read: "))
 read_line(fn, n)
 
 
-
+#Jenoh Sam J B
+#URK24CS1154
+print("URK24CS1154")
 from collections import Counter
 with open("alphabet.txt") as f:
     print(Counter(f.read().lower().split()))
