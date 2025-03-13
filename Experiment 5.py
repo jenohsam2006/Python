@@ -63,12 +63,13 @@ def bill(food):
             total += prices[item]
             stock[item] -= 1
     return total
-print(bill(groceries))
+print("Total bill : ",bill(groceries))
 
 
 
 #Jenoh Sam J B
 #URK24CS1154
+print("URK24CS1154")
 lloyd = {
     "name": "Lloyd",
     "homework": [90.0, 97.0, 75.0, 92.0],
@@ -113,11 +114,11 @@ def get_letter_grade(score):
         return "D"
     else:
         return "F"
-print(get_letter_grade(get_average(lloyd))) 
+print("grade for lloyd : ",get_letter_grade(get_average(lloyd))) 
 def get_class_average(students):
     results = []
     for student in students:
         results.append(get_average(student))
     return average(results)
-print(get_class_average(students))
-print(get_letter_grade(get_class_average(students)))
+print("class average : ",get_class_average(students))
+print("grade : ",get_letter_grade(get_class_average(students)))
