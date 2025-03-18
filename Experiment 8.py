@@ -1,3 +1,7 @@
+#Jenoh Sam J B
+#URK24CS1154
+#create a base class called Employee and derive sub classes
+print("URK24CS1154")
 class Employee:
     def __init__(self, basic_salary, da_percent, hra_percent, tax_percent, epf):
         self.basic_salary = basic_salary
@@ -58,7 +62,10 @@ while True:
         print("Invalid option! Try again.")
 
 
-
+#Jenoh Sam J B
+#URK24CS1154
+#create a class Worker and derive two classes DailyWorker and SalariedWorker
+print("URK24CS1154")
 class Worker:
     def __init__(self, name, salary_rate):
         self.name = name
